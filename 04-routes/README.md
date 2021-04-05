@@ -1,5 +1,6 @@
-To start the server, navigate in a terminal to the root directory of the project.
-Type 'node index' and press enter.
+Clone this project onto your computer.
+Navigate in a terminal to /04-routes/
+To start the server type 'node index' and press enter.
 Go to your browser and enter 'http://localhost:3000/' to see the result of the home route
 Go to your browser and enter 'http://localhost:3000/books/<nameofbook>' to see the result of searching for a book.
 Book titles can be found in /database/books.database.js.
