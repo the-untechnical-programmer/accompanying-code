@@ -1,0 +1,10 @@
+{
+    "name": "api-tutorials",
+    "version": "1.0.0",
+    "main": "app.js",
+    "author": "the-untechnical-programmer",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
