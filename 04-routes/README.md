@@ -1,5 +1,5 @@
-Clone this project onto your computer.
-Navigate in a terminal to /04-routes/
+Clone this project onto your computer.<br/>
+Navigate in a terminal to /04-routes/<br/>
 To start the server type 'node index' and press enter.
 Go to your browser and enter 'http://localhost:3000/' to see the result of the home route
 Go to your browser and enter 'http://localhost:3000/books/<nameofbook>' to see the result of searching for a book.
