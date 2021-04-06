@@ -9,5 +9,8 @@
 <br/>
 Notes:<br/>
 <br/>
+
+This project presumes that you have Node and NPM already installed</br>
+
 Book titles are in snake case (all lowercase, words seperated by hyphens) to make the url look as simple as possible.<br/>
 If they had spaces, urls would look like this: 'http://localhost:3000/books/how%20to%20code', which is less readable.<br/>
