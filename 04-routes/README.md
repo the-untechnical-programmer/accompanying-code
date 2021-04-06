@@ -1,9 +1,11 @@
 01 - Clone this project onto your computer.<br/>
 02 - Navigate in a terminal to '/04-routes/'.<br/>
-03 - To start the server type 'node index' and press enter.<br/>
-04 - Go to your browser and enter 'http://localhost:3000/' to see the result of the home route.<br/>
-05 - Go to your browser and enter 'http://localhost:3000/books/nameofbook' to see the result of searching for a book.<br/>
+03 - Enter 'npm install' and press enter to install dependencies.</br>
+04 - To start the server type 'node index' and press enter.<br/>
+05 - Go to your browser and enter 'http://localhost:3000/' to see the result of the home route.<br/>
 06 - Book titles can be found in /database/books.database.js.<br/>
+07 - Go to your browser and enter 'http://localhost:3000/books/nameofbook' to see the result of searching for a book.<br/>
+
 <br/>
 Notes:<br/>
 <br/>
