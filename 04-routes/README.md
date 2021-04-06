@@ -3,7 +3,7 @@
 03 - Enter 'npm install' and press enter to install dependencies.</br>
 04 - To start the server type 'node index' and press enter.<br/>
 05 - Go to your browser and enter 'http://localhost:3000/' to see the result of the home route.<br/>
-06 - Book titles can be found in /database/books.database.js.<br/>
+06 - Book titles can be found in /database/books-database.js.<br/>
 07 - Go to your browser and enter 'http://localhost:3000/books/nameofbook' to see the result of searching for a book.<br/>
 
 Notes:<br/>
