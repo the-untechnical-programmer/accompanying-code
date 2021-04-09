@@ -1,2 +1,2 @@
 # accompanying-code
-Code to go with the UnTechnical Programmer TikTok Videos
+Code to accompany the UnTechnical Programmer TikTok Videos
